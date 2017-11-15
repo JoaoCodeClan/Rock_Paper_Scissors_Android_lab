@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RockPaperScissors</string>
+    <string name="HomePageBtn">Play</string>
+    <string name="winnerresult" />
+    <string name="resultcomputeranouncement"> Computer played </string>
+    <string name="movechoice">What will you choose?</string>
+</resources>
